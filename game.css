@@ -1,0 +1,12 @@
+#canvas {
+  border: 2px solid black;
+}
+
+#colorpicker {
+  background-color: #d8d8d8;
+  height: 10%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
